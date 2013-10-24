@@ -1,0 +1,5 @@
+652434a5793eb14aae7b5baa07f6cfc7  downloads/pkcs11f.h
+713ac88786b436a5df02bface7dfce45  downloads/pkcs11.h
+aeebc839b98e672982abf566e6a25525  downloads/pkcs11t.h
+102d9652681db11c813610882332ae48  downloads/TrueCrypt 7.1a Source.tar.gz
+2fa39da14bc06ea86fe902579fedc5b1  downloads/wxWidgets-2.8.12.tar.gz
