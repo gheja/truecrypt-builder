@@ -23,6 +23,6 @@ export CC=`which gcc-4.6`
 export CXX=`which g++-4.6`
 export PKCS11_INC=`readlink -f ../pkcs-11_v2-20`
 
-make WX_ROOT=`readlink -f ../wxWidgets-2.8.12` wxbuild
+make NOGUI=1 WX_ROOT=`readlink -f ../wxWidgets-2.8.12` wxbuild
 
-make WXSTATIC=1
+make NOGUI=1 WXSTATIC=1
